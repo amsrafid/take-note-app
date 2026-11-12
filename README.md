@@ -26,3 +26,10 @@ npm run lint       # eslint
 ```
 
 Dev server runs on `http://localhost:5173` by default.
+
+## Demo Admin Account
+
+```
+email: admin@admin.com
+password: password
+```
